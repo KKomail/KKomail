@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Komail</h1>
 <h3 align="center">A passionate programmer from Hong Kong.</h3>
-<img align="right" alt="CatCode" width="400" src="https://media.gifdb.com/coding-walking-cat-17mitwkziw2xzxxk.gif">
+<img align="right" alt="Coding" width="400" src="https://gifdb.com/gif/coding-walking-cat-17mitwkziw2xzxxk.html?embed=true">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=kkomail&label=Profile%20views&color=0e75b6&style=flat" alt="kkomail" /> </p>
 
