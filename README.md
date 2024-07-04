@@ -12,8 +12,8 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/komail tabakhi" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="komail tabakhi" height="30" width="40" /></a>
-<a href="https://fb.com/komail tabakhi" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="komail tabakhi" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/komail-tabakhi-50b617257/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="komail tabakhi" height="30" width="40" /></a>
+<a href="https://www.facebook.com/komail.kavani" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="komail tabakhi" height="30" width="40" /></a>
 <a href="https://instagram.com/komail_kavani" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="komail_kavani" height="30" width="40" /></a>
 <a href="https://www.leetcode.com/kkomail" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="kkomail" height="30" width="40" /></a>
 </p>
