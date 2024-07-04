@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Komail</h1>
 <h3 align="center">A passionate programmer from Hong Kong.</h3>
-<img align="right" alt="Coding" width="400" src="https://gifdb.com/gif/coding-walking-cat-17mitwkziw2xzxxk.html?embed=true">
+<img align="right" alt="Coding" width="400" src="https://easy-peasy.ai/cdn-cgi/image/quality=80,format=auto,width=700/https://fdczvxmwwjwpwbeeqcth.supabase.co/storage/v1/object/public/images/223f89cf-4c3b-43d1-b4b7-a4688cab836e/dcf21667-085d-439f-bd3b-b30f4aa391da.png">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=kkomail&label=Profile%20views&color=0e75b6&style=flat" alt="kkomail" /> </p>
 
