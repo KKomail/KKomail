@@ -6,7 +6,7 @@
 
 - 🔭 I’m currently working on **Minecraft mods**
 
-- 👨‍💻 All of my projects are available at [my github](github.com/KKomail)
+- 👨‍💻 All of my projects are available at [my github](https://github.com/KKomail)
 
 - 📫 How to reach me **komailkavani7@gmail.com**
 
