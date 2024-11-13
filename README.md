@@ -4,7 +4,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=kkomail&label=Profile%20views&color=0e75b6&style=flat" alt="kkomail" /> </p>
 
-- 🔭 I’m currently working on **Minecraft mods**
+- 🔭 I’m currently working on **becoming a VIM God**
 
 - 👨‍💻 All of my projects are available at [my github](https://github.com/KKomail)
 
